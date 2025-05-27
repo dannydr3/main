@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.734dfe39.css",
+    "main.js": "/static/js/main.79375e67.js",
+    "static/media/meta-loading.gif": "/static/media/meta-loading.dc25822fe7a7da249794.gif",
+    "static/media/metalogo.png": "/static/media/metalogo.5b3feb85aa1b1364419f.png",
+    "static/media/fbLogo.png": "/static/media/fbLogo.bde8dcc2d83ab7c865f5.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.734dfe39.css",
+    "static/js/main.79375e67.js"
+  ]
+}
